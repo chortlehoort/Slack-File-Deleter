@@ -1,0 +1,21 @@
+{
+  "name": "Slack-File-Deleter",
+  "version": "0.0.0",
+  "description": "The script deletes all files uploaded to your slack team, older than a given number of weeks. Default number of weeks is 4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chortlehoort/Slack-File-Deleter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chortlehoort/Slack-File-Deleter/issues"
+  },
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
