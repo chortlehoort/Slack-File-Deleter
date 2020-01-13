@@ -1,6 +1,6 @@
 {
   "name": "Slack-File-Deleter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The script deletes all files uploaded to your slack team, older than a given number of weeks. Default number of weeks is 4.",
   "main": "index.js",
   "scripts": {
